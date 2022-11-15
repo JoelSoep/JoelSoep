@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelSoep
-- 👀 I’m interested in Discord Bot Development, Javascript, PHP, Minecraft plugin Development and C#.
-- 🌱 I’m currently learning PHP, JS, C# & Java
+- 👀 I’m interested in NodeJS, PHP, Minecraft plugin Development and C#.
+- 🌱 I’m currently learning JS & Java
 - 📫 You can reach out to me on discord: Joël#0034
 
 <!---
